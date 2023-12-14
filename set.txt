@@ -1,0 +1,6 @@
+evdev:input:b0003*
+    KEYBOARD_KEY_7008b=minus
+    KEYBOARD_KEY_7002d=muhenkan
+    KEYBOARD_KEY_7004c=tab
+    KEYBOARD_KEY_7008a=grave
+    KEYBOARD_KEY_70088=esc
